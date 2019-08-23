@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  pageid: 1
+  choice1: MyString
+  choice2: MyString
+  outpath1: 1
+  outpath2: 1
+
+two:
+  pageid: 1
+  choice1: MyString
+  choice2: MyString
+  outpath1: 1
+  outpath2: 1
